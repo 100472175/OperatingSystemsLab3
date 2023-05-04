@@ -79,6 +79,7 @@ int main (int argc, const char * argv[] ) {
     //2. Reserving the maximum allowed operations, 200
     void *queueu = malloc(sizeof(OPERATION_SIZE) * atoi(line));
 
+    // TODO, too many things
 
 
 
